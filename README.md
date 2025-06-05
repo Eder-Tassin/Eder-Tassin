@@ -3,14 +3,17 @@
 # ⚡️🧠 PROYECTO ÉPICO LEGENDARIO 🧠⚡️  
 _El repo que no pediste... ¡pero el que necesitás!_
 
-¡Bienvenido/a a **Proyecto Épico**!  
-Este repo es más que código: es una declaración de intenciones, una solución pensada para escalar, adaptarse y brillar. ✨
-
+markdown
+Copy
+Edit
        (╯°□°）╯︵ ┻━┻
 ~ La revolución empieza con un push ~
-
+yaml
+Copy
+Edit
 
 ![badge](https://img.shields.io/badge/Magia-Activa-purple?style=for-the-badge)
+![badge](https://img.shields.io/badge/Testeado%20por%20gatos-100%25-orange?style=for-the-badge)
 
 </div>
 
@@ -35,11 +38,71 @@ Y ahora... es tuyo.
 🛰️ **Infra**: Docker + K8s + CI/CD + Magia Negra  
 🔒 **Auth**: JWT + hechizos de protección nivel 99
 
+ruby
+Copy
+Edit
+        ┌────────────────────┐
+        │    Frontend ✨     │
+        └────────┬───────────┘
+                 │
+      ┌──────────▼───────────┐
+      │    API Gateway 🚪    │
+      └────┬────────────┬────┘
+           │            │
+    ┌──────▼───┐    ┌───▼─────┐
+    │ MS:Users 👥│    │MS:Logic 🔮│
+    └──────┬───┘    └────┬────┘
+           ▼            ▼
+      ┌────────┐   ┌─────────┐
+      │ DB:User│   │ DB:Magic│
+      └────────┘   └─────────┘
+yaml
+Copy
+Edit
+
 ---
 
+## 🎛️ COMANDOS QUE INVOCAN EL PODER
+
+```bash
+# 🔮 Instalarlo todo (como por arte de magia)
+pnpm install
+
+# 💥 Iniciar el modo turbo
+pnpm start
+
+# 📦 Build para dominar el mundo
+pnpm build
+🧙 FILOSOFÍA DEL CÓDIGO
+🎯 Cada línea tiene un propósito
+🔥 Fallá rápido, aprendé más rápido
+🎩 Pensá como usuario, codificá como ninja
+🛡️ Tests no son opcionales, son escudos
+
+👾 CONTRIBUYENTES ÉPICOS
+text
+Copy
+Edit
           ⠀⠀⠀⣀⣀⣤⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⢀⣶⡿⠛⠉⠙⠛⠛⠛⠿⢿⣿⣷⣦⣄⠀⠀⠀
 ⠀⠀⣴⣿⡏⠀⠀⣠⣤⣤⣤⣄⡀⠀⠀⠙⣿⣿⣦⠀⠀  
 ⠀⠀⣿⣿⠀⠀⠀⣿⣿⣿⣿⣿⣷⠀⠀⠀⢹⣿⣿⠀⠀  ← Este sos vos
 ⠀⠀⢿⣿⣦⡀⠀⠈⠻⠿⠿⠟⠁⠀⢀⣠⣾⣿⡿⠀⠀  
 ⠀⠀⠀⠙⠻⢿⣿⣶⣶⣶⣶⣾⣿⣿⠿⠟⠋⠁⠀⠀⠀
+Hacé tu fork, mandá un PR, ¡y dejá tu legado!
+El código es nuestro lenguaje. La excelencia, nuestro dialecto.
+
+🪄 LICENCIA
+MIT - Usá, rompé, arreglá, compartí.
+Pero si este proyecto te salva un sprint, ¡tirate una ⭐ como agradecimiento!
+
+<div align="center">
+🌠 Gracias por leer hasta acá.
+arduino
+Copy
+Edit
+   "La tecnología avanza, pero la pasión por crear es eterna."
+🧑‍🚀 Con cariño,
+Eder
+
+</div> ```
