@@ -17,12 +17,8 @@ Desarrollar una aplicación moderna, robusta y performante que resuelva [tu nece
 - 🔐 **Autenticación**: [JWT/Auth0/etc.]
 - 🧪 **Testing**: [Jest/Cypress/xUnit/etc.]
 
-## 📦 Arquitectura
+<div align="center">
 
-```mermaid
-graph TD;
-  UI[Frontend] --> API[API Gateway];
-  API --> MS1[Microservicio 1];
-  API --> MS2[Microservicio 2];
-  MS1 --> DB1[(DB 1)];
-  MS2 --> DB2[(DB 2)];
+# ⚡️🧠 PROYECTO ÉPICO LEGENDARIO 🧠⚡️  
+_El repo que no pediste... ¡pero el que necesitás!_
+
