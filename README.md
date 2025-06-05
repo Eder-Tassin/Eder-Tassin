@@ -3,15 +3,8 @@
 # ⚡️🧠 PROYECTO ÉPICO LEGENDARIO 🧠⚡️  
 _El repo que no pediste... ¡pero el que necesitás!_
 
-markdown
-Copy
-Edit
        (╯°□°）╯︵ ┻━┻
 ~ La revolución empieza con un push ~
-yaml
-Copy
-Edit
-
 ![badge](https://img.shields.io/badge/Magia-Activa-purple?style=for-the-badge)
 ![badge](https://img.shields.io/badge/Testeado%20por%20gatos-100%25-orange?style=for-the-badge)
 
@@ -33,14 +26,11 @@ Y ahora... es tuyo.
 ## 🧪 STACK (más power que una pokebola legendaria)
 
 🧱 **Frontend**: Angular / React / Next.js (*con turbo incluida*)  
-🧠 **Backend**: .NET / NestJS / Go / Rust (depende del día 😎)  
+🧠 **Backend**: .NET  / Go  (depende del día 😎)  
 💾 **Base de datos**: PostgreSQL / MongoDB / Redis (¿y por qué no todos?)  
 🛰️ **Infra**: Docker + K8s + CI/CD + Magia Negra  
 🔒 **Auth**: JWT + hechizos de protección nivel 99
 
-ruby
-Copy
-Edit
         ┌────────────────────┐
         │    Frontend ✨     │
         └────────┬───────────┘
@@ -56,9 +46,6 @@ Edit
       ┌────────┐   ┌─────────┐
       │ DB:User│   │ DB:Magic│
       └────────┘   └─────────┘
-yaml
-Copy
-Edit
 
 ---
 
@@ -80,9 +67,7 @@ pnpm build
 🛡️ Tests no son opcionales, son escudos
 
 👾 CONTRIBUYENTES ÉPICOS
-text
-Copy
-Edit
+
           ⠀⠀⠀⣀⣀⣤⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⢀⣶⡿⠛⠉⠙⠛⠛⠛⠿⢿⣿⣷⣦⣄⠀⠀⠀
 ⠀⠀⣴⣿⡏⠀⠀⣠⣤⣤⣤⣄⡀⠀⠀⠙⣿⣿⣦⠀⠀  
@@ -95,6 +80,7 @@ El código es nuestro lenguaje. La excelencia, nuestro dialecto.
 🪄 LICENCIA
 MIT - Usá, rompé, arreglá, compartí.
 Pero si este proyecto te salva un sprint, ¡tirate una ⭐ como agradecimiento!
+```
 
 <div align="center">
 🌠 Gracias por leer hasta acá.
@@ -105,4 +91,4 @@ Edit
 🧑‍🚀 Con cariño,
 Eder
 
-</div> ```
+</div> 
