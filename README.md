@@ -2,9 +2,9 @@
 
 # ⚡️🧠 PROYECTO ÉPICO LEGENDARIO 🧠⚡️  
 _El repo que no pediste... ¡pero el que necesitás!_
-
        (╯°□°）╯︵ ┻━┻
 ~ La revolución empieza con un push ~
+
 ![badge](https://img.shields.io/badge/Magia-Activa-purple?style=for-the-badge)
 ![badge](https://img.shields.io/badge/Testeado%20por%20gatos-100%25-orange?style=for-the-badge)
 
@@ -84,11 +84,7 @@ Pero si este proyecto te salva un sprint, ¡tirate una ⭐ como agradecimiento!
 
 <div align="center">
 🌠 Gracias por leer hasta acá.
-arduino
-Copy
-Edit
    "La tecnología avanza, pero la pasión por crear es eterna."
 🧑‍🚀 Con cariño,
 Eder
-
 </div> 
