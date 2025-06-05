@@ -11,7 +11,6 @@ Este repo es más que código: es una declaración de intenciones, una solución
 
 
 ![badge](https://img.shields.io/badge/Magia-Activa-purple?style=for-the-badge)
-![badge](https://img.shields.io/badge/Testeado%20por%20gatos-100%25-orange?style=for-the-badge)
 
 </div>
 
@@ -36,8 +35,7 @@ Y ahora... es tuyo.
 🛰️ **Infra**: Docker + K8s + CI/CD + Magia Negra  
 🔒 **Auth**: JWT + hechizos de protección nivel 99
 
-
-
+---
 
           ⠀⠀⠀⣀⣀⣤⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⢀⣶⡿⠛⠉⠙⠛⠛⠛⠿⢿⣿⣷⣦⣄⠀⠀⠀
